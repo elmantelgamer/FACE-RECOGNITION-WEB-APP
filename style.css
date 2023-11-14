@@ -1,0 +1,24 @@
+body
+{
+    color: red;
+    background: rosybrown;
+}
+
+.heading
+{
+    width:80%;
+    font-size: 22;
+}
+
+.main_of_objects, #result_object_name , #result_object_name_accuracy
+{
+    color: silver;
+}
+
+#Camera
+{
+    border: springgreen;
+    width: 350;
+    height: 300;
+    border: -2px dashed royalblue;
+}
